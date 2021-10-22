@@ -1,5 +1,8 @@
 /*Estilos da página index.html*/
 
+
+
+
 .center{
     text-align: center;
 }
@@ -57,3 +60,7 @@
 }
 
 /*Estilos da página contato.html*/
+
+.ml-50{
+    margin-left: 50px;
+}
